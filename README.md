@@ -1,2 +1,2 @@
 # EE392
-Industrial Automated Systems
+[2023 Fall, OzU] Industrial Automated Systems
